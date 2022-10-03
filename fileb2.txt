@@ -1,2 +1,3 @@
 creating a file from branch2
 is everything upto date
+command to exicute
