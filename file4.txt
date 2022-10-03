@@ -1,1 +1,3 @@
- this is another file to add file4
+file4
+one more line 
+this is another file to add file4
