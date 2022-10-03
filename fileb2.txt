@@ -2,3 +2,5 @@ creating a file from branch2
 is everything upto date
 command to exicute
 next line
+command is not executing
+try to resolve
